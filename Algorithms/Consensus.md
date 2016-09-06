@@ -2,6 +2,10 @@
 Consensus Algorithms
 
 
+Distributed Consensus Making Impossible Possible - Heidi Howard, JOTB16
+* https://www.youtube.com/watch?v=XUQJvMALfUA
+
+
 Paxos
 
 
