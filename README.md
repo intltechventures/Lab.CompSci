@@ -11,5 +11,7 @@ Interesting Computer Scientist
   * http://lemire.me/en/
   * https://github.com/lemire
   * https://twitter.com/lemire/
-
+* Tien N. Nguyen
+  * Associate Professor, Iowa State University
+  * http://home.eng.iastate.edu/~tien/
 
